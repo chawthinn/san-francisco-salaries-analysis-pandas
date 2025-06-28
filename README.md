@@ -42,7 +42,7 @@ Key columns:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/sf-salaries-analysis.git
+   git clone https://github.com/chawthinn/san-francisco-salaries-analysis-pandas.git
    cd sf-salaries-analysis
    ```
 
