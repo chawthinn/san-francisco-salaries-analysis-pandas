@@ -43,7 +43,7 @@ Key columns:
 1. Clone the repository:
    ```bash
    git clone https://github.com/chawthinn/san-francisco-salaries-analysis-pandas.git
-   cd sf-salaries-analysis
+   cd san-francisco-salaries-analysis-pandas
    ```
 
 2. Open the notebook in Jupyter or Kaggle.
